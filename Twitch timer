@@ -1,1 +1,1 @@
-["【自動定期】最後に聴いた曲です！ / The last track I listen! | $(l youjiman "♪ {{title}} - {{artist}}")"]
+["【自動定期】最後に聴いた曲です！ / The last track I listen! | $(last youjiman "♪ {{title}} - {{artist}}")"]
